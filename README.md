@@ -31,5 +31,7 @@ Estabeleça metas financeiras e acompanhe seu progresso ao longo do tempo. Receb
 <h2>Requisitos do Sistema</h2>
 
 Dispositivo Android ou iOS
+
 Permissões de notificação habilitadas
+
 Conexão com a internet para sincronização de dados
